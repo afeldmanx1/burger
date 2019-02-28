@@ -1,2 +1,2 @@
 # burger
-burger logger with MySQL, Node, Express, Handlebars and a homemade ORM with MVC
+Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM with MVC
