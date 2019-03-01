@@ -1,7 +1,7 @@
 # burger
 Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM with MVC
 
-##Visit this link to demo
+## Visit this link to demo
 https://evening-headland-20764.herokuapp.com/
 
 ## Please follow the following steps to run this app locally
